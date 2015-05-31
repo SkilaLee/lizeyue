@@ -1,0 +1,33 @@
+[ 2015-05-31T00:20:28+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/test
+ERR: 模板不存在:D:/about web/wamp/www/test/pre/test/Admin/View/Index/test.html
+
+[ 2015-05-31T00:21:31+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/test
+ERR: 模板不存在:D:/about web/wamp/www/test/pre/test/Admin/View/Index/test.html
+
+[ 2015-05-31T00:21:58+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/test
+ERR: 模板不存在:D:/about web/wamp/www/test/pre/test/Admin/View/Index/test.html
+
+[ 2015-05-31T01:07:08+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-05-31T01:07:49+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-05-31T01:08:13+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.index' doesn't exist
+
+[ 2015-05-31T01:11:00+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.index' doesn't exist
+
+[ 2015-05-31T01:12:19+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.index' doesn't exist
+
+[ 2015-05-31T01:12:20+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.index' doesn't exist
+
+[ 2015-05-31T10:20:55+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.user' doesn't exist
+
+[ 2015-05-31T10:23:48+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'examine.blog__user' doesn't exist
+

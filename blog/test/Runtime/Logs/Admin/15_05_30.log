@@ -1,0 +1,48 @@
+[ 2015-05-30T23:28:10+08:00 ] 127.0.0.1 /test/pre/test/index.php/admin/User/login
+ERR: 无法加载控制器:User
+
+[ 2015-05-30T23:28:51+08:00 ] 127.0.0.1 /test/pre/test/index.php/admin/Index/login
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:29:08+08:00 ] 127.0.0.1 /test/pre/test/index.php/admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:30:18+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:31:41+08:00 ] 127.0.0.1 /test/pre/test/index.php/admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:34:13+08:00 ] 127.0.0.1 /test/pre/test/index.php/admin/Index/hello
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:34:30+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/hello
+ERR: 无法加载控制器:Index
+
+[ 2015-05-30T23:45:01+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-30T23:45:14+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-30T23:45:41+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/login
+ERR: 非法操作:login
+
+[ 2015-05-30T23:46:22+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Index/login
+ERR: 非法操作:login
+
+[ 2015-05-30T23:46:23+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 模板不存在:D:/about web/wamp/www/test/pre/test/Admin/View/Manager/login.html
+
+[ 2015-05-30T23:46:40+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/login
+ERR: 模板不存在:D:/about web/wamp/www/test/pre/test/Admin/View/Manager/login.html
+
+[ 2015-05-30T23:55:37+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/ADMIN_CSS_URL/style.css
+ERR: 非法操作:ADMIN_CSS_URL
+
+[ 2015-05-30T23:55:39+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/ADMIN_CSS_URL/style.css
+ERR: 非法操作:ADMIN_CSS_URL
+
+[ 2015-05-30T23:55:45+08:00 ] 127.0.0.1 /test/pre/test/index.php/Admin/Manager/ADMIN_CSS_URL/style.css
+ERR: 非法操作:ADMIN_CSS_URL
+
